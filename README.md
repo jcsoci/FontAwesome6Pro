@@ -9,6 +9,9 @@ or
 <br>
 <br>
 Clone this repository to localized the font icons.
+```
+https://github.com/jcsoci/FontAwesome6Pro
+```
 <br>
 <br>
 Search the icon you needed in https://fontawesome.com/icons and apply the classes to the element.
